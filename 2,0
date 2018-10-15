@@ -1,4 +1,4 @@
-*Nombre del grupo: Ayrton y Abimael
+#Nombre del grupo: Ayrton y Abimael
 
 Integrantes:
 
